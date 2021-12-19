@@ -24,8 +24,6 @@
 <img width="200" alt="공유게시판" src="https://user-images.githubusercontent.com/59560592/133100294-22867263-d661-42dd-be0a-86ab1e8fece8.gif">
 1. 다른 사용자의 줍깅 기록을 볼 수 있습니다.
 
-<!-- <br>
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -38,8 +36,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
-<br>
 
 
 ## How to run the project
@@ -57,4 +53,3 @@ Run the app from terminal with flutter run
 <br>
 <br>
 <br>
- -->
